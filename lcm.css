@@ -1,5 +1,6 @@
 body{
     background-image: linear-gradient(to right,black,white); 
+    
 }
 .Lili{width: 100px; height: 100px;}
 .vascudo{ position: relative;
@@ -9,3 +10,8 @@ color: beige;}
 .Liber{ position: relative;
     top: -70px;
     left: 500px;}
+    .Libertadores{color: aliceblue;
+    
+    
+    }
+    
